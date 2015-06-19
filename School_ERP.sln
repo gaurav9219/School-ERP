@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School_ERP", "School_ERP\School_ERP.csproj", "{060F761F-FC77-4903-BD9E-2DE9AFF8699B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{060F761F-FC77-4903-BD9E-2DE9AFF8699B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060F761F-FC77-4903-BD9E-2DE9AFF8699B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060F761F-FC77-4903-BD9E-2DE9AFF8699B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060F761F-FC77-4903-BD9E-2DE9AFF8699B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
